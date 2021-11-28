@@ -1,0 +1,18 @@
+{
+  "name": "Third MFD in FA26",
+  "description": "Adds 3rd mfd to the FA-26. There is also a minor cockpit rework to accomodate the mfd",
+  "dll_file": "3rdMFD.dll",
+  "last_edit": 637591114310324429,
+  "pub_id": "4cxjh2oz",
+  "json_version": "",
+  "version": "1.0.2",
+  "tagline": "Hornet Vibes",
+  "repository": "",
+  "is_public": true,
+  "unlisted": false,
+  "preview_image": "preview.png",
+  "web_preview_image": "web_preview.png",
+  "dependencies": [],
+  "mod_dependencies": null,
+  "ContentType": 1
+}
