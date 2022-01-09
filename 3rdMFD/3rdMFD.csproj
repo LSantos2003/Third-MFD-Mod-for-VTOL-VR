@@ -83,14 +83,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Custom Classes\LPI.cs" />
     <Compile Include="Custom Classes\MasterMode.cs" />
     <Compile Include="Custom Classes\DamageUI.cs" />
     <Compile Include="Custom Classes\FaJettisonKnob.cs" />
+    <Compile Include="Custom Classes\RadarSlew.cs" />
     <Compile Include="Custom Classes\RefuelFlightControl.cs" />
     <Compile Include="FileLoader.cs" />
     <Compile Include="Patches\MFDManagerPatch.cs" />
     <Compile Include="Patches\MFDPatch.cs" />
     <Compile Include="Needle.cs" />
+    <Compile Include="Patches\RadarRotationPatch.cs" />
     <Compile Include="Patches\RadarUIPatch.cs" />
     <Compile Include="PlayerSpawnPatch.cs" />
     <Compile Include="Main.cs" />

@@ -16,6 +16,7 @@ namespace _3rdMFD
         public static bool Prefix(MFDPage __instance)
         {
 
+
             if (__instance.pageName == "radar")
             {
                 ShipRadarManager shipRadar = __instance.transform.root.gameObject.AddComponent<ShipRadarManager>();
